@@ -183,4 +183,3 @@ how requests are logged.
 All of these can be submitted through the
 [issue tracker](https://github.com/googleads/googleads-php-lib/issues) in this
 GitHub project.
-
